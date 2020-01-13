@@ -1,3 +1,4 @@
 
 data/timeslots.csv
 activate mydat
+data/*
